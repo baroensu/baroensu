@@ -1,4 +1,7 @@
-### Hi there 👋
+### _Selamat_ 👋
+
+**Untuk pertanyaan bisnis : baroensu@gmail.com**
+**Lokasi : Gorontalo, Indonesia**
 
 <!--
 **baroensu/baroensu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
